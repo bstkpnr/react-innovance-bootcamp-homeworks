@@ -1,3 +1,14 @@
+### Görseller 
+ 
+ <img  src="./img/eft1.png" />
+ <img  src="./img/eft2.png" />
+ <img  src="./img/eft3.png" />
+ <img  src="./img/eft4.png" />
+
+
+
+
+
 ### ODEV ONCESI
 Eğer bu repoyu kullanarak kendi bilgisayarinizda development yapmak isterseniz sirasiyla,
 1) Repoyu clonelayin
