@@ -1,6 +1,6 @@
 ### Görsel
 
-<img  src="./img/billgates1.png />
+<img  src="./img/billgates1.png" />
 
 
 ###  Bill Gates'in parasını harca uygulaması
