@@ -7,6 +7,8 @@
 - [x] Week4   Homeworks
 - [x] Week5   Homeworks
 - [x] Week5   Homeworks
+- [x] Week6   Homeworks
+
 
 
 
